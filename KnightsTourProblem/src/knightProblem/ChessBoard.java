@@ -1,4 +1,4 @@
-package springProblem;
+package knightProblem;
 
 public class ChessBoard extends Main{
 	

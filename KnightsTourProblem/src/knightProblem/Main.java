@@ -1,4 +1,4 @@
-package springProblem;
+package knightProblem;
 
 import java.util.Scanner;
 
