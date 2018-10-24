@@ -71,7 +71,7 @@ public class Main{
 			
 		}
 		// Ingen løsning
-		System.out.println("ingen løsning");
+		//System.out.println("No solution");
 		return false;
 	}
 
